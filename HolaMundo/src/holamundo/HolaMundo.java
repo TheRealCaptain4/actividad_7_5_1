@@ -16,7 +16,11 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
     System.out.println("Hola mundo");
+<<<<<<< HEAD
     System.out.println("hola  jooooooooooooooooooooooooohn");
+=======
+    System.out.println("Hol Jessica");
+>>>>>>> origin/master
     }
     
 }
